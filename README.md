@@ -1,4 +1,4 @@
-# BagImplementations
+# Bag Implementations
 
 For my 2353 students,
 
